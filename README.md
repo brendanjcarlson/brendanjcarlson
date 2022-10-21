@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brendanjcarlson
-- 👀 I’m interested in making the web beautiful!
-- 🌱 I’m currently learning React and SCSS!
+- 🌱 I’m currently learning to become a full-stack developer through Coding Temple
 
 <!---
 brendanjcarlson/brendanjcarlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
