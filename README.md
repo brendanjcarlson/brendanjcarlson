@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @brendanjcarlson
-- 👨‍🎓 I recently graduated from Coding Temple's fullstack web developer bootcamp!
-- 🌱 I’m currently learning 🦀Rust🦀 and Svelte
+- 👨‍ I'm an associate instructor at Coding Temple!
+- 🌱 I’m currently learning SvelteKit
