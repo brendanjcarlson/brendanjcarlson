@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @brendanjcarlson
 - 👨‍ I'm an associate instructor at Coding Temple
+- 💻 I'm also a freelance web dev
 - 🌱 I’m currently learning NextJS
