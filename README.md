@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @brendanjcarlson
 - 👨‍ I'm an associate instructor at Coding Temple
-- 🌱 I’m currently learning SvelteKit
+- 🌱 I’m currently learning NextJS
