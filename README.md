@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @brendanjcarlson
 - 💻 I'm a freelance developer
-- 🌱 I’m currently learning Go
+- 🤓 I'm a Gopher
 - 🐶 Ask me about my dogs!
